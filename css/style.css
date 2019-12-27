@@ -28,9 +28,9 @@ nav {
   padding: 10px 0 15px 15px;
 }
 
-.arrow {
+/* .arrow {
   float: right;
-}
+} */
 
 .container {
   margin: 0 auto;
@@ -64,4 +64,5 @@ nav {
 
 .restaurant-list {
   width: 100%;
+  display: inline-block;
 }
